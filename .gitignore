@@ -1,6 +1,8 @@
-tabadel/node_modules/
-tabadel/.babelrc
-tabadel/.editorconfig
-tabadel/package.json
-tabadel/package-lock.json
-tabadel/webpack.config.js
+node_modules/
+assets/.gitkeep
+.babelrc
+.editorconfig
+package.json
+package-lock.json
+webpack.config.js
+.gitignore
