@@ -1,8 +1,6 @@
 node_modules/
+!node_modules/phaser/
 assets/.gitkeep
 .babelrc
 .editorconfig
-package.json
-package-lock.json
-webpack.config.js
 .gitignore
