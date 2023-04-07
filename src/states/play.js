@@ -2,7 +2,7 @@ import Phaser from 'phaser'
 
 class Play extends Phaser.State {
   create () {
-    // TODO
+    this.game.stage.backgroundColor = '#000'
   }
 
   update () {
